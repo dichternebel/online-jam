@@ -13,7 +13,7 @@ This tutorial is for setting up Jamulus using your DAW in combination with a vir
 * Your DAW (whatever u use)
 * Voicemeeter Banana (Win only): https://www.vb-audio.com/Voicemeeter/banana.htm
 * Jamulus: https://sourceforge.net/projects/llcon/files/
-* An internet faced installation of *"Jamulus Server"*
+* *Optional*: An internet faced private installation of *"Jamulus Server"*
 
 ### Setup & Configuration
 
