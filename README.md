@@ -28,6 +28,9 @@ You and your m8s will have an audio based online jam and hear the same audio at 
 ### What you'll get...not!
 There will be no sync: No wordclock, no midi-sync, no Ableton Link or whatever you are using. You will have to sync manually and agree to a tempo at the beginning of each song. 🤷 
 
+### What you can expect
+Although technically working imho this sucks! It's really hard to set up even for nerds. Audio quality highly depends on the connection quality of the connected clients. And this is not only ping or distance to the chosen server. The overall experience is only as good as the weekest part of the jam session and although every prerequiste seems to be fulfilled the result can be annoying.
+
 If you still feel the need of starting an adventure, please refer to the Wiki pages for details:
 
 https://github.com/dichternebel/online-jam/wiki
