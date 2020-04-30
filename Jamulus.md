@@ -33,5 +33,4 @@ Although technically working imho this sucks! It's really hard to set up even fo
 
 If you still feel the need of starting an adventure, please refer to the Wiki pages for details:
 
-https://github.com/dichternebel/online-jam/wiki/jamulus/Home
-
+https://github.com/dichternebel/online-jam/wiki/Jamulus-Home
