@@ -32,5 +32,5 @@ https://github.com/dichternebel/online-jam/wiki
 ---
 ### Obsolete & not recommended
 Although I won't recommend using Jamulus, here is a guide on how to use and set that up
--> [Online Jam with Jamulus](Jamulus)
+-> [Online Jam with Jamulus](Jamulus.md)
 
